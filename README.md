@@ -4,6 +4,10 @@ A responsive four-step progress demo built with HTML, CSS, and vanilla JavaScrip
 
 This is a UI interaction demo, not a form or a data-submission flow.
 
+## Live demo
+
+[Open Progress Steps](https://shariatypour.github.io/Progress-Steps/)
+
 ## Preview
 
 ![Progress Steps on a narrow screen, showing all four stages and the Previous and Next buttons](docs/preview.png)
@@ -83,4 +87,4 @@ Browser checks covered the boundary states, Enter/Space activation, focus recove
 
 ## Project status
 
-Implementation and review are tracked in [pull request #1](https://github.com/Shariatypour/Progress-Steps/pull/1). A public live demo has not been published yet.
+Implementation and review are tracked in [pull request #1](https://github.com/Shariatypour/Progress-Steps/pull/1). The live demo is hosted on GitHub Pages and published from `main`.
