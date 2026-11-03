@@ -32,7 +32,7 @@ This is a UI interaction demo, not a form or a data-submission flow.
 2. Open `index.html` in a browser. Keep the `css` and `js` folders beside it.
 3. Optionally, open the folder in VS Code and use Live Server.
 
-While the improvements are under review, select the `feature/progress-navigation` branch before downloading, or run `git switch feature/progress-navigation` after cloning.
+The default branch, `main`, contains the current version of the demo.
 
 ## Controls
 
